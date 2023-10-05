@@ -3,7 +3,7 @@
 
  **Groupe:** MAAPAA
 
- **Membres**
+ **Membres :**
 - Maha SAMIA
 - Andréa Oliveira 
 - Andy Andriamaro Rakotoniaina
@@ -11,4 +11,4 @@
 - Alycia Kene
 - Alex Le Bourlout
 
-Pitch : Suite à un désastre durant une expédition sous-marine en grande profondeur, un scaphandrier tente désespérément de retourner à la surface.
+**Pitch :** Suite à un désastre durant une expédition sous-marine en grande profondeur, un scaphandrier tente désespérément de retourner à la surface.
