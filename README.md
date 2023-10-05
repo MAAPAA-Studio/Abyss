@@ -12,3 +12,5 @@
 - Alex Le Bourlout
 
 **Pitch :** Suite à un désastre durant une expédition sous-marine en grande profondeur, un scaphandrier tente désespérément de retourner à la surface.
+
+![Abyss Cover Art](/Abyss_Art.png)
